@@ -1,0 +1,5 @@
+uf,ano,mes,rotulo,linhas_brutas,linhas_drsai,taxa_drsai_pct,memoria_mb,tempo_total_s,obitos_drsai,letalidade_drsai_pct,dist_categoria,status
+SP,2017,1,UF grande / baseline / Sudeste,194491,1428,0.73,64.96,2.87,28,1.96,"{'fecal_oral': 1388, 'leptospirose': 21, 'helmintiase': 19}",ok
+PE,2019,7,UF média  / baseline / Nordeste (alta endemicidade),50727,636,1.25,16.94,7.72,20,3.14,"{'fecal_oral': 575, 'leptospirose': 49, 'helmintiase': 12}",ok
+RS,2023,10,UF média  / modelagem / Sul (baixa endemicidade),68723,407,0.59,22.95,5.39,9,2.21,"{'fecal_oral': 384, 'leptospirose': 22, 'helmintiase': 1}",ok
+AC,2024,6,UF pequena / modelagem / Norte,4675,97,2.07,1.56,3.07,1,1.03,"{'fecal_oral': 90, 'leptospirose': 5, 'helmintiase': 2}",ok

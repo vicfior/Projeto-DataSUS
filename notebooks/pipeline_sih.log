@@ -1,0 +1,8 @@
+17:02:14 [INFO] Pipeline SIH-SUS iniciado
+17:31:19 [INFO] Pipeline SIH-SUS iniciado
+17:31:27 [INFO] Disco OK: 134.1 GB livres (mínimo: 35.0 GB)
+17:31:27 [ERROR] 🚨 RAM insuficiente: 1.6 GB livres (mínimo: 2.0 GB). Feche outras aplicações antes de continuar.
+17:31:29 [INFO] Conectividade DataSUS OK
+17:33:36 [INFO] Rodando smoke test da Seção 1...
+17:33:40 [INFO] Smoke test OK: 4,675 linhas, 97 DRSAI
+17:53:46 [INFO] Macrorregiões OK: 5,571 municípios (100.0%) | 121 macrorregiões
